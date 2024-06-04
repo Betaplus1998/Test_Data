@@ -1,0 +1,145 @@
+// Package Spezification1
+package Spezification1;
+
+class Requirement1 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement2 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement3 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement4 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement5 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement6 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement7 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement8 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement9 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement10 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+// Package Spezification2
+package Spezification2;
+
+class Requirement1 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement2 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement3 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement4 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement5 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement6 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement7 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement8 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement9 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
+
+class Requirement10 {
+    int ID;
+    String Priority;
+    boolean Completion;
+    String Relation;
+}
